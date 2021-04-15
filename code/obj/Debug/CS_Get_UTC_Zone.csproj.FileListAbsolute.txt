@@ -1,0 +1,6 @@
+C:\Users\jashliao\Desktop\192_168_1_68 API\20210414\SYWEB-V8-Workstation(Delta)\CS_Get_UTC_Zone\bin\Debug\CS_Get_UTC_Zone.exe.config
+C:\Users\jashliao\Desktop\192_168_1_68 API\20210414\SYWEB-V8-Workstation(Delta)\CS_Get_UTC_Zone\bin\Debug\CS_Get_UTC_Zone.exe
+C:\Users\jashliao\Desktop\192_168_1_68 API\20210414\SYWEB-V8-Workstation(Delta)\CS_Get_UTC_Zone\bin\Debug\CS_Get_UTC_Zone.pdb
+C:\Users\jashliao\Desktop\192_168_1_68 API\20210414\SYWEB-V8-Workstation(Delta)\CS_Get_UTC_Zone\obj\Debug\CS_Get_UTC_Zone.csprojResolveAssemblyReference.cache
+C:\Users\jashliao\Desktop\192_168_1_68 API\20210414\SYWEB-V8-Workstation(Delta)\CS_Get_UTC_Zone\obj\Debug\CS_Get_UTC_Zone.exe
+C:\Users\jashliao\Desktop\192_168_1_68 API\20210414\SYWEB-V8-Workstation(Delta)\CS_Get_UTC_Zone\obj\Debug\CS_Get_UTC_Zone.pdb
